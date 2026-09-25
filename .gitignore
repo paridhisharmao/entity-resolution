@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Large dataset files
+*.tsv
+*.csv
+
+# Generated output
+output/
+
+# IDE files
+.idea/
